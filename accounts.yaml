@@ -1,0 +1,19 @@
+defaults:
+  selection: top_engagement
+  scan_limit: 100
+  limit: 12
+  research_query: Which posts and health topics generated the highest user engagement?
+
+accounts:
+  - username: default_username_1
+    enabled: true
+  - username: default_username_2
+    enabled: true
+  - username: default_username_3
+    enabled: true
+  - username: default_username_4
+    enabled: true
+  - username: default_username_5
+    enabled: true
+  - username: default_username_6
+    enabled: true
