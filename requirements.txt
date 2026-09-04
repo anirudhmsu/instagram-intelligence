@@ -1,0 +1,11 @@
+fastapi==0.141.1
+uvicorn[standard]==0.35.0
+pydantic-settings==2.10.1
+instaloader==4.14.2
+browser-cookie3==0.20.1
+python-docx==1.2.0
+PyYAML==6.0.3
+mcp[cli]>=2.0.0,<3.0.0
+tzdata==2025.2
+pytest==8.4.1
+httpx==0.28.1
