@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "instagram-health-research": {
+      "command": "C:\\ABSOLUTE\\PATH\\TO\\SH\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\ABSOLUTE\\PATH\\TO\\SH\\run_mcp.py"]
+    }
+  }
+}

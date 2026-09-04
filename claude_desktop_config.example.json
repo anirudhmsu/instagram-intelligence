@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "instagram-health-research": {
+      "command": "/ABSOLUTE/PATH/TO/PROJECT/.venv/bin/python",
+      "args": ["/ABSOLUTE/PATH/TO/PROJECT/run_mcp.py"]
+    }
+  }
+}
